@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Charlie</h1>
+<h1 align="center">Hey, I'm charlie frater</h1>
 <h6 align="center">Robotics · Electronics · PCB Design · Creative Tech <br> New Zealand</h6>
 
 <p align="center">

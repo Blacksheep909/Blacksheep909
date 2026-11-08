@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Blacksheep909">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=36BCF7&center=true&vCenter=true&width=380&lines=building+robots+that+walk;designing+PCBs+that+work+first+try+(sometimes);3D-printing+things+that+fly;making+hardware+feel+good+to+use" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=36BCF7&center=true&vCenter=true&width=560&lines=building+robots+that+walk;designing+PCBs+that+work+first+try+(sometimes);3D-printing+things+that+fly;making+hardware+feel+good+to+use" alt="Typing SVG" />
   </a>
 </p>
 

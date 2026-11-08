@@ -1,10 +1,3 @@
-<table width="100%">
-<tr>
-<td width="48%" valign="top">
-<img src="./github-metrics.svg" width="100%" alt="GitHub metrics" />
-</td>
-<td width="52%" valign="top">
-
 <h1 align="center">Hey, I'm Charlie</h1>
 <h6 align="center">Robotics · Electronics · PCB Design · Creative Tech <br> New Zealand</h6>
 
@@ -42,7 +35,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Blacksheep909&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-</td>
-</tr>
-</table>
